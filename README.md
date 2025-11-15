@@ -8,7 +8,7 @@ AeroCast is a clean, fast, and accurate weather intelligence app. It pulls live 
 
 This version is fully deployed, API-integrated, and production‑ready.
 
-Live App: aero-cast-real-time-weather-intelli.vercel.app
+Live App   : https://aero-cast-real-time-weather-intelli.vercel.app/
 GitHub Repo: https://github.com/Apon-21/AeroCast-Real-Time-Weather-Intelligence-App
 
 ---
@@ -131,9 +131,9 @@ City search: <img width="1886" height="800" alt="image" src="https://github.com/
 
 ## 🔗 Live Demo + Quick Links
 
-* **Live Site:**https://aero-cast-real-time-weather-intelli.vercel.app/
+* **Live Site  : https://aero-cast-real-time-weather-intelli.vercel.app/
 * **GitHub Repo: https://github.com/Apon-21/AeroCast-Real-Time-Weather-Intelligence-App
-* **API Provider:** RapidAPI – Open Weather
+* **API Provider: RapidAPI – Open Weather
 
 ---
 
